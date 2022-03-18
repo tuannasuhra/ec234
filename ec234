@@ -1,0 +1,2 @@
+#ec234
+s <- sample(1:10000, 1, replace = TRUE)
